@@ -23,7 +23,7 @@ body {
   font-size: 16px;
   line-height: 1.7;
   color: #828282;
-  background: #fff;
+  background: #000;
 }
 
 #page {
@@ -34,6 +34,7 @@ body {
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
+  background: #000;
 }
 .offcanvas #page {
   overflow: hidden;
@@ -93,7 +94,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 .fh5co-nav {
   padding: 18px 0;
-  background: #fff;
+  background: #000;
 }
 @media screen and (max-width: 768px) {
   .fh5co-nav {
@@ -116,7 +117,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .fh5co-nav a {
   padding: 5px 10px;
-  color: #000;
+  color: #fff;
 }
 @media screen and (max-width: 768px) {
   .fh5co-nav .menu-1, .fh5co-nav .menu-2 {
@@ -1151,7 +1152,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 #fh5co-footer {
-  background: #fff;
+  background: #000;
 }
 #fh5co-footer .fh5co-footer-links {
   padding: 0;
